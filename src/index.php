@@ -13,9 +13,9 @@
 
     <div class="container-lg my-3">
       <form action="index.php" method="post">
-    
-        <label for="fname">Name</label>
-        <input type="text" id="fname" name="fname">
+        <div class="row justify-content-center align-items-center">
+          
+        </div>
 
       </form>
     </div>

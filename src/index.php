@@ -7,12 +7,16 @@
 </head>
 <body>
   
-  <form action="index.php" method="post">
-  
-    <label for="fname">Name</label>
-    <input type="text" id="fname" name="fname">
+  <section>
+    <div class="container-lg">
+      <form action="index.php" method="post">
+    
+        <label for="fname">Name</label>
+        <input type="text" id="fname" name="fname">
 
-  </form>
+      </form>
+    </div>
+  </section>
 
 </body>
 </html>
